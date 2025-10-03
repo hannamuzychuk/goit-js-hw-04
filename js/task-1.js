@@ -11,7 +11,6 @@ function isEnoughCapacity(products, containerSize) {
     } else {
         return false;
     }
-    
 }
 
 console.log(
